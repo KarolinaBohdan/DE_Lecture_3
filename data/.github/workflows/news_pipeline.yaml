@@ -57,3 +57,4 @@ jobs:
             git commit -m "Update news pipeline data"
             git push
           fi 
+          
